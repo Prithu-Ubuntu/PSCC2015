@@ -12,3 +12,6 @@ Please follow as bellow.
 5. Then type the command ./InstallWine.sh
 
 It will install WineHQ in your Ubuntu 20.04LTS
+
+6. Now exit the terminal and go to the Downloaded PSCC2015 Folder, From there, First see the instruction how to install Photoshop. 
+7. Install Photoshop as instructed and enjoy. 
